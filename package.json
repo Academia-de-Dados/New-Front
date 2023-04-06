@@ -1,0 +1,19 @@
+{
+  "name": "new-front",
+  "version": "1.0.0",
+  "description": "front-end  utilizando React, totalmente desacoplado do back-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Academia-de-Dados/New-Front.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Academia-de-Dados/New-Front/issues"
+  },
+  "homepage": "https://github.com/Academia-de-Dados/New-Front#readme"
+}
