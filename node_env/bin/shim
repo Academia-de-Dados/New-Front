@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-export NODE_PATH='/home/frbmorais/Desktop/projetos/garcom/New-Front/node_env/lib/node_modules'
-export NPM_CONFIG_PREFIX='/home/frbmorais/Desktop/projetos/garcom/New-Front/node_env'
-export npm_config_prefix='/home/frbmorais/Desktop/projetos/garcom/New-Front/node_env'
-exec 'node_env/bin/node' "$@"
